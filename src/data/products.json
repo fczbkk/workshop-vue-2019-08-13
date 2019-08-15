@@ -1,0 +1,42 @@
+{
+  "breadroll": {
+    "title": "Breadroll",
+    "description": "Crunchy breadroll directly from owen.",
+    "price": 500,
+    "isHighlighted": false,
+    "categories": ["normal"],
+    "availableQuantity": 100
+  },
+  "bread": {
+    "title": "Bread",
+    "description": "Stale bread, little bit mouldy.",
+    "price": 10,
+    "isHighlighted": true,
+    "categories": ["normal"],
+    "availableQuantity": 50
+  },
+  "cinamon_roll": {
+    "title": "Cinamon Roll",
+    "description": "Sweet. Too sweet. You'll be fat.",
+    "price": 50,
+    "isHighlighted": false,
+    "categories": ["sweet"],
+    "availableQuantity": 0
+  },
+  "doughnut": {
+    "title": "Doughnut",
+    "description": "Food for cops.",
+    "price": 499,
+    "isHighlighted": true,
+    "categories": ["sweet"],
+    "availableQuantity": 1000
+  },
+  "christmas": {
+    "title": "Christmas bread",
+    "description": "Only to be used during Xmas.",
+    "price": 1500,
+    "isHighlighted": false,
+    "categories": ["sweet", "normal"],
+    "availableQuantity": 10
+  }
+}
